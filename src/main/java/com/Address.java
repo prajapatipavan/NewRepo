@@ -30,6 +30,7 @@ public class Address {
 	 private Date addDate;
 	 
 	 
+	 
 	public Integer getAddressId() {
 		return addressId;
 	}
